@@ -1,11 +1,11 @@
 head:
     # 网站图标 多个随机
-    favicon: "https://q1.qlogo.cn/headimg_dl?bs=1106996185&dst_uin=1106996185&spec=100&url_enc=0&referer=bu_interface&term_type=PC"
+    favicon: "https://avatars0.githubusercontent.com/u/71251428?s=460&u=d679f693b238b71f53dd935dd2d6a49f06aab5a3&v=4"
 
 
 img:
     # 头像 多个随机
-    avatar: "https://q1.qlogo.cn/headimg_dl?bs=1106996185&dst_uin=1106996185&spec=100&url_enc=0&referer=bu_interface&term_type=PC"
+    avatar: "https://avatars0.githubusercontent.com/u/71251428?s=460&u=d679f693b238b71f53dd935dd2d6a49f06aab5a3&v=4"
     # 首页左边图片 多个随机
     left_pic: 
       - "/img/home.jpg"
@@ -145,6 +145,6 @@ footer:
   # 底部右间(移动端有所不同)  多个随机
   -
     -
-      拼命想抓住一些东西！
+      砥砺前行，玉妆于珹
     -
-      带你装逼带你飞！
+      心如止水
