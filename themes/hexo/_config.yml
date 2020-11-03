@@ -1,29 +1,30 @@
 head:
     # 网站图标 多个随机
-    favicon: "https://avatars0.githubusercontent.com/u/71251428?s=460&u=d679f693b238b71f53dd935dd2d6a49f06aab5a3&v=4"
+    favicon: "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/avatar.png"
 
 
 img:
     # 头像 多个随机
-    avatar: "https://avatars0.githubusercontent.com/u/71251428?s=460&u=d679f693b238b71f53dd935dd2d6a49f06aab5a3&v=4"
+    avatar: "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/avatar.png"
     # 首页左边图片 多个随机
     left_pic: 
-      - "/img/home.jpg"
+      - "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/main.jpg"
     # 首页右边图片 多个随机 (移动端不显示)
     right_pic:
-      - "/img/right_pic.jpg"
+      - "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/right.jpg"
     # 默认文章背景 多个随机
     post_thumbnail: 
-      - "/img/二次元/下雨.jpg"
+      - "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/yz.jpg"
+      - "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/ksl.jpg"
     # 侧边抽屉头部图片 多个随机
     drawerHeaderBg:
-      - "/img/drawerCover.jpg"
+      - "https://geo-blog-1257665595.cos.ap-nanjing.myqcloud.com/imgs/art2.jpg"
 
 uiux:
     #标语 多个随机
-    slogan: "拼命想抓住一些东西！"
+    slogan: "砥砺前行，玉妆于珹"
     #主色 多个随机
-    defaultPrimaryColor: "blue"
+    defaultPrimaryColor: "cyan"
     #强调色 多个随机
     defaultAccentColor: "red"
 
@@ -81,7 +82,7 @@ Drawer:
           #站外链接
           type: link
           #链接
-          href: mailto:cneyhn@email.com
+          href: 1170691438@qq.com
           #图标
           icon: mail_outline
         -
@@ -90,7 +91,7 @@ Drawer:
           #站外链接
           type: link
           #链接
-          href: https://github.com/EYHN
+          href: https://github.com/geoLiang123
           #图标
           icon: 
             #类型: svg (推荐 可以控制颜色)
@@ -105,7 +106,7 @@ Drawer:
           #站外链接
           type: link
           #链接
-          href: http://wpa.qq.com/msgrd?v=3&uin=1106996185&site=qq&menu=yes
+          href: http://wpa.qq.com/msgrd?v=3&uin=1170691438&site=qq&menu=yes
           #图标
           icon: 
             type: svg
