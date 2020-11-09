@@ -26,7 +26,7 @@ uiux:
     #主色 多个随机
     defaultPrimaryColor: "cyan"
     #强调色 多个随机
-    defaultAccentColor: "red"
+    defaultAccentColor: "lightBlue"
 
 #评论 (定义多个 就会显示多个评论框)
 comment:
